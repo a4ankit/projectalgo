@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Manage_Package_Test</fullName>
+    <apiAccessLevel>Unrestricted</apiAccessLevel>
+    <namespacePrefix>devsfdx</namespacePrefix>
+    <types>
+        <members>AClass</members>
+        <members>AClassTest</members>
+        <members>A_TemperatureConverter</members>
+        <members>A_TemperatureConverterTest</members>
+        <members>ContactsTodayController</members>
+        <members>ContactsTodayController_test</members>
+        <members>LeadProcessor</members>
+        <members>LeadProcessorTest</members>
+        <name>ApexClass</name>
+    </types>
+    <version>42.0</version>
+</Package>
