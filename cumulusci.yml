@@ -1,0 +1,7 @@
+project:
+    name: projectalgo
+    package:
+        name:  packagealgo
+        api_version: '42'
+
+
