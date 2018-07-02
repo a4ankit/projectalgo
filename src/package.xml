@@ -6,6 +6,8 @@
         <members>AClassTest</members>
         <members>A_TemperatureConverter</members>
         <members>A_TemperatureConverterTest</members>
+        <members>ContactToLead</members>
+        <members>ContactToLeadTest</members>
         <members>ContactsTodayController</members>
         <members>ContactsTodayController_test</members>
         <members>LeadProcessor</members>
